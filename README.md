@@ -93,3 +93,39 @@ export default function App() {
     </div>
   );
 }
+{tarcking detali| date,time driver time. locally system and  reporetry {
+}
+}
+{ atler> top this < total,payout system, and calculater with> 
+} use and make rela time tiem/ and  extra time countder with and<  
+{ claen inter,face: </div>  ,org
+< control> swift / chagne /): main> with control>\ 
+{
+{\
+journy> lit/ fit < {
+pvt ; lift since (12:00)> \ go> rush  in> fitb\ calculat rather{ \ colse  intrt : \\ non  equale] back space,}
+/\\\
+{ 
+   \\try          {{ escap|\\ back word\ with 000\\ (7:00)celour data\cahce> \ time change > 00:00 
+{
+{
+{\\               .org>  / Non tghuisn + google mape>+< navigate} all this made by/get hub\\{{{
+bit issue<        {\\org real time\ tpt : teracking> vechil"| out put} full project>><{0} JWT secre api\\
+{Input validation:} rate= listing\ {{ back hand\system hat.c++ profit menegent roll {color\blue<>
+\
+const express = require("express"): 
+const mongoose = require(" mongoose"):
+const cors = require("cors"):
+require("dotenv").config():
+
+const app = express():
+app.use(cors()):
+app.use(express.json()): 
+
+mongoo.connect(process.env.MONGO_uri)
+.then(() => console .log("DB Connected"))
+.catch(err => console.log(err)):
+
+// routes 
+app.use("/api/auth",require("/routes/auth")):
+app.use("/api rides".require("./require/rides")) 
